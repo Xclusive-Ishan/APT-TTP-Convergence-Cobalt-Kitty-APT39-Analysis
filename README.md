@@ -1,2 +1,2 @@
 # APT-TTP-Convergence-Cobalt-Kitty-APT39-Analysis
-This project focuses on analyzing the tactics, techniques, and procedures (TTPs) of two well-documented advanced persistent threats (APTs) – Operation Cobalt Kitty and APT39. By leveraging the MITRE ATT&amp;CK Framework, I conducted an in-depth TTP analysis, mapped them using the ATT&amp;CK Navigator, and identified overlaps between both threat actors.
+A MITRE ATT&CK-Based Comparative Analysis of APT39 & Operation Cobalt Kitty"
