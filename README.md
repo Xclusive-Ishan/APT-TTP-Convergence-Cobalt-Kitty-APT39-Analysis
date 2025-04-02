@@ -1,4 +1,4 @@
-# APT39-CobaltKitty-Intel-to-GRC-Analysis
+# Cobalt Kitty & APT39: TTP Defense Matrix
 
 ### Overview
 
